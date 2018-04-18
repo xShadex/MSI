@@ -1,0 +1,7 @@
+C:\Users\Bartek\Desktop\Programowanie c#\MsiAlgorytmGenetyczny\MsiAlgorytmGenetyczny\bin\Debug\MsiAlgorytmGenetyczny.exe.config
+C:\Users\Bartek\Desktop\Programowanie c#\MsiAlgorytmGenetyczny\MsiAlgorytmGenetyczny\bin\Debug\MsiAlgorytmGenetyczny.exe
+C:\Users\Bartek\Desktop\Programowanie c#\MsiAlgorytmGenetyczny\MsiAlgorytmGenetyczny\bin\Debug\MsiAlgorytmGenetyczny.pdb
+C:\Users\Bartek\Desktop\Programowanie c#\MsiAlgorytmGenetyczny\MsiAlgorytmGenetyczny\obj\Debug\MsiAlgorytmGenetyczny.csprojResolveAssemblyReference.cache
+C:\Users\Bartek\Desktop\Programowanie c#\MsiAlgorytmGenetyczny\MsiAlgorytmGenetyczny\obj\Debug\MsiAlgorytmGenetyczny.exe
+C:\Users\Bartek\Desktop\Programowanie c#\MsiAlgorytmGenetyczny\MsiAlgorytmGenetyczny\obj\Debug\MsiAlgorytmGenetyczny.pdb
+C:\Users\Bartek\Desktop\Programowanie c#\MsiAlgorytmGenetyczny\MsiAlgorytmGenetyczny\obj\Debug\MsiAlgorytmGenetyczny.csproj.CoreCompileInputs.cache
